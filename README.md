@@ -17,13 +17,13 @@
 ```bash
 manuel@sec-lab:~$ cat profile.json
 {
-  "role": "Cybersecurity Specialist & Systems Developer",
-  "education": "M.Sc. in Cybersecurity @ UNIR-México",
-  "core_focus": [
-    "Applied Cryptography & Software Auditing",
-    "Server Administration & Hardening (Linux/Windows)",
-    "Python Automation & Secure Web Development",
-    "AI-Assisted Operational Workflows"
+  "rol": "Especialista en Ciberseguridad y Desarrollador de Sistemas",
+  "formacion": "Maestría en Ciberseguridad @ UNIR-México",
+  "enfoque": [
+    "Criptografía Aplicada y Auditoría de Software",
+    "Administración y Hardening de Servidores (Linux/Windows)",
+    "Automatización en Python y Desarrollo Web Seguro",
+    "Optimización Operativa Asistida por IA"
   ],
-  "status": "Building secure tools & hardening infrastructure"
+  "estado": "Desarrollando herramientas seguras y fortaleciendo infraestructura"
 }
